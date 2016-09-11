@@ -1,0 +1,18 @@
+c:\users\user1\documents\visual studio 2013\Projects\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+c:\users\user1\documents\visual studio 2013\Projects\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+c:\users\user1\documents\visual studio 2013\Projects\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+c:\users\user1\documents\visual studio 2013\Projects\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2013\Projects\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Form1.resources
+c:\users\user1\documents\visual studio 2013\Projects\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Properties.Resources.resources
+c:\users\user1\documents\visual studio 2013\Projects\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.GenerateResource.Cache
+c:\users\user1\documents\visual studio 2013\Projects\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+c:\users\user1\documents\visual studio 2013\Projects\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csprojResolveAssemblyReference.cache
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Form1.resources
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Properties.Resources.resources
+C:\Users\gonzalowtf\Google Drive\Vs\Programas\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.GenerateResource.Cache
